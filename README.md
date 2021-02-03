@@ -9,4 +9,6 @@
 잘 나왔다.  
 ![image](https://user-images.githubusercontent.com/58061933/106146940-a1b90280-61ba-11eb-9966-30e4b89e14ce.png)  
 그리고 다시 새로 만들어봤다. 이번엔 mariaDB랑 연동했따.!  
+![마리아](https://user-images.githubusercontent.com/58061933/106716094-56cb3f00-6641-11eb-805d-aa3620220676.PNG)  
 
+![으하하](https://user-images.githubusercontent.com/58061933/106716086-5468e500-6641-11eb-95ac-742c2af685f9.PNG)  
