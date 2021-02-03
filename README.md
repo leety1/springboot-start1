@@ -7,4 +7,6 @@
 그리하여 eclipse_help->marketplace에서 sts를 검색하고 spring tools4를   
 다운받으니 run as 에 spring boot app이 생성되었고 실행하니 결과가  
 잘 나왔다.  
-![image](https://user-images.githubusercontent.com/58061933/106146940-a1b90280-61ba-11eb-9966-30e4b89e14ce.png)
+![image](https://user-images.githubusercontent.com/58061933/106146940-a1b90280-61ba-11eb-9966-30e4b89e14ce.png)  
+그리고 다시 새로 만들어봤다. 이번엔 mariaDB랑 연동했따.!  
+
